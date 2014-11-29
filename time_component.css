@@ -1,0 +1,15 @@
+.time_div {
+	margin: 5px 0 5px 0;
+}
+.time_div select {
+	width: 42px;
+	text-align: center;
+}
+.time_div select:nth-child(3n+1) {
+	width: 60px;
+}
+.time_div label {
+	width: 18px;
+	display: inline-block;
+	text-align: center;
+}
