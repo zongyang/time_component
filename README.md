@@ -1,5 +1,6 @@
 time_component
 ==============
-1¡¢ÒıÈëtime_component.cssºÍtime_component.jsÎÄ¼ş£»
-2¡¢µ÷ÓÃcreateTimeDiv(table-element,col_name)£¬¼´¿É£»
-3¡¢btnOnClickÀïÃæ´¦ÀíÌá½»ÇëÇó²Ù×÷¡£
+
+1ã€å¼•å…¥time_component.csså’Œtime_component.jsæ–‡ä»¶ï¼›
+2ã€è°ƒç”¨createTimeDiv(table-element,col_name)ï¼Œå³å¯ï¼›
+3ã€btnOnClické‡Œé¢å¤„ç†æäº¤è¯·æ±‚æ“ä½œã€‚
